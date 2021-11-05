@@ -1,9 +1,9 @@
 # Node / Shell Script for Transforing Audio
 
-[ 1 ] Node Crawls a Google Drive Directory for Semantic files names
-[ 2 ] Node compares (soft-sync) data, only downloads what is missing
-[ 3 ] ffmpeg transforms the audio to be generally the same volume, bitrate and channels
-[ 4 ] Node generates a JSON manifest of all of the files which the larger app then uses as a "Dial Directory"
+- [ ] Node Crawls a Google Drive Directory for Semantic files names
+- [ ] Node compares (soft-sync) data, only downloads what is missing
+- [ ] ffmpeg transforms the audio to be generally the same volume, bitrate and channels
+- [ ] Node generates a JSON manifest of all of the files which the larger app then uses as a "Dial Directory"
 
 ## FFMPEG Script
 
