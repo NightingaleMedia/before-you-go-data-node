@@ -20,6 +20,8 @@
 
 ## Sample Manifest
 
+Sits at the top level of the "data" folder.
+
 ```json
 // */data.manifest.json
 {
