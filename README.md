@@ -23,7 +23,7 @@
 Sits at the top level of the "data" folder.
 
 ```json
-// */data.manifest.json
+// */data/manifest.json
 {
   "0": {
     "description": "",
