@@ -21,6 +21,7 @@
 ## Sample Manifest
 
 ```json
+// */data.manifest.json
 {
   "0": {
     "description": "",
